@@ -17,7 +17,7 @@ conda activate image_effects
 
 2. Clone the repository:
 ```bash
-git clone git@github.com:oscarpete/image-effects-app.git
+git clone git@github.com:oscarpete/dragndrop.git
 cd image-effects-app
 ```
 
